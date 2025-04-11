@@ -18,13 +18,13 @@ export default function Home() {
           Based in Jammu & Kashmir, serving India-wide 🌍
         </p>
 
-        <a href="mailto:hello@digitolla.com" className="inline-block mt-10 bg-white text-indigo-700 font-bold px-6 py-3 rounded-full shadow hover:bg-opacity-80 transition">
+        <a href="mailto:admin@digitolla.com" className="inline-block mt-10 bg-white text-indigo-700 font-bold px-6 py-3 rounded-full shadow hover:bg-opacity-80 transition">
           📩 Contact Us
         </a>
       </main>
 
       <footer className="text-sm text-center mt-20 text-white/80 border-t border-white/20 pt-4">
-        © 2025 Digitolla • Built for growth • hello@digitolla.com
+        © 2025 Digitolla • Built for growth • admin@digitolla.com
       </footer>
     </div>
   );
